@@ -23,6 +23,8 @@ biber graypaper-mobile
 xelatex graypaper-mobile.tex
 ```
 
+TODO: Epub for even better Apple books support. 
+
 
 https://graypaper.com/
 
