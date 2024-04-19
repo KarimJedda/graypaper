@@ -4,6 +4,26 @@ The description and formal specification of the Jam protocol, a potential succes
 
 Build with xelatex.
 
+
+## This repo adds a mobile version 
+
+Margins, single column, a bit more line spacing. 
+
+To build (Ubuntu 22.04)
+
+```bash
+
+# sudo apt-get install texlive-xetex texlive-fonts-extra texlive-bibtex-extra biber
+
+# first time
+xelatex graypaper-mobile.tex
+biber graypaper-mobile 
+
+# subsequently
+xelatex graypaper-mobile.tex
+```
+
+
 https://graypaper.com/
 
 ## Remaining for v0.1

@@ -16,3 +16,6 @@
 *.xml
 *.png
 *.svg
+
+!assets/*.png
+!output/*.pdf
